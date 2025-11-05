@@ -24,7 +24,7 @@ Feita com **TailwindCSS**, ícones do **Lucide** e muito amor pelo código. ❤�
 
 ## 📸 Demonstração
 
-![preview](https://github.com/luiz01204/url-shortener-frontend/assets/example.png)
+![preview](https://github.com/luiz01204/urlShortener-frontend/blob/main/src/assets/example.png)
 
 > 💬 *Links encurtados expiram após 7 dias.*
 
